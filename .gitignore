@@ -1,6 +1,3 @@
-node_modules/
-js/
-Projects/
-sass/
-font-awesome/
-*.json
+index.html
+test-task.md
+.gitignore
